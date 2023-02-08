@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4808124695109903377
+  m_GuidHigh: 7488668508991887785
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5224145773242155076
+      m_GuidHigh: 14383737160939730320
+    m_SerializedTextureGuid:
+      m_GuidLow: 12160876021976648054
+      m_GuidHigh: 9560044872730082152
+    m_Size: {x: 0.08, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: Milk (2)
+    m_Texture: {fileID: 2800000, guid: 977bc9761c4fa8c468fbde13291aac84, type: 3}
